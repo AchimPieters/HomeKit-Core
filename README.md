@@ -1,4 +1,4 @@
 # HomeKit-Core
 ESP Homekit Core Files
 
-:hammer: *** WORK IN PROGRESS*** :wrench:
+ https://www.studiopieters.nl/esp-homekit-sdk-flash/
