@@ -112,12 +112,11 @@ homekit_server_config_t config = {
 };
 
 void on_wifi_ready() {
-    homekit_server_init(&config);
 }
 
 
 void user_init(void) {
     uart_set_baud(0, 115200);
-
+    homekit_server_init(&config);
     led_init();
 }
